@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação segue a gente nas redes abaixo!
+### Pra para conhecer um pouco mais sobre mim!
  
 <div>
   <a href="https://www.youtube.com/@Kazuy1623" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
